@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [ km-feb24-balikpapan-13](https://github.com/Kampus-Merdeka-Software-Engineering/km-feb24-balikpapan-13.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/denicrizz]([[https://github.com/denicrizz](https://github.com/denicrizz?tab=repositories)])
+- 👨‍💻 All of my projects are available at [https://github.com/denicrizz]([[https://github.com/denicrizz/repositories]])
 
 - 📫 How to reach me **denikristanto90@gmail.com**
 
