@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Superstore Dashboard](https://km-feb24-balikpapan-13.vercel.app/)
 
-- 👯 I’m looking to collaborate on [Owner avatar km-feb24-balikpapan-13](https://github.com/Kampus-Merdeka-Software-Engineering/km-feb24-balikpapan-13.git)
+- 👯 I’m looking to collaborate on [ km-feb24-balikpapan-13](https://github.com/Kampus-Merdeka-Software-Engineering/km-feb24-balikpapan-13.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/denicrizz](https://github.com/denicrizz)
 
