@@ -25,3 +25,22 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denicrizz&show_icons=true&locale=en&layout=compact" alt="denicrizz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denicrizz&" alt="denicrizz" /></p>
+
+## Repo Stats 🔥
+
+
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=denicrizz&repo=km-feb24-balikpapan-13&theme=tokyonight)
+
+<p align="center">
+
+  <a href="https://github.com/denicrizz"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=denicrizz&theme=tokyonight&layout=compact" /></a>
+
+</p>
+   
+
+ <p align="center">
+
+  <a href="https://github.com/denicrizz"><img src="https://github-readme-stats.vercel.app/api?username=denicrizz&theme=tokyonight&show_icons=true" /></a>
+
+</p>
