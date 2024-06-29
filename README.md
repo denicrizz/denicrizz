@@ -27,4 +27,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denicrizz&" alt="denicrizz" /></p>
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=denicrizz&repo=km-feb24-balikpapan-13&theme=tokyonight)
+
