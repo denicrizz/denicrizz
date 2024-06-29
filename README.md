@@ -26,5 +26,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denicrizz&" alt="denicrizz" /></p>
 
+ <p align="center">
 
+ <a href="https://github.com/denicrizz"><img src="https://github-readme-stats.vercel.app/api?username=denicrizz&theme=light&show_icons=true" /></a>
+
+</p>
 
