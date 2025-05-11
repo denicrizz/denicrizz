@@ -28,6 +28,6 @@
  <p align="center">
 
  <a href="https://github.com/denicrizz"><img src="https://github-readme-stats.vercel.app/api?username=denicrizz&theme=light&show_icons=true" /></a>
-[![denicrizz's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?denicrizz=ffflabs)](https://github.com/denicrizz/github-readme-stats)
+
 </p>
 
